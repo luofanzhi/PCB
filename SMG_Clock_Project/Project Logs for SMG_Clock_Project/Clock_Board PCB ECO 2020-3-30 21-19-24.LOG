@@ -1,7 +1,0 @@
-Added Component: Designator=E1(CAP 3.5*8*11.5 - GD)
-Add component (AddParameter): Name = "BOM名称"; Value = "直插电解电容"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
-Added Pin To Net: NetName=POWER_+ Pin=E1-1
-Added Pin To Net: NetName=GND Pin=E1-2
-Added Member To Class: ClassName=Clock Member=Component E1 10uF/16V

@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=BEEP_GPIOB_1 Pin=R5-1
-Removed Pin From Net: NetName=BEEP_GPIOB_1 Pin=U1-19
-Added Pin To Net: NetName=LED_GPIOB_1 Pin=R5-1
-Added Pin To Net: NetName=LED_GPIOB_1 Pin=U1-19
-Added Net: Name=LED_GPIOB_1

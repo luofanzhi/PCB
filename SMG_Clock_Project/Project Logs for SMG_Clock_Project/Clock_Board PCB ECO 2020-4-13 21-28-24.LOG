@@ -1,7 +1,0 @@
-Added Pin To Net: NetName=WEI0_DATA_IN Pin=U1-39
-Added Pin To Net: NetName=WEI0_DATA_OUT Pin=U1-40
-Added Pin To Net: NetName=WEI0_DATA_MOVE Pin=U1-41
-Added Pin To Net: NetName=DUAN0_DATA_IN Pin=U1-42
-Added Pin To Net: NetName=DUAN0_DATA_OUT Pin=U1-43
-Added Pin To Net: NetName=DUAN0_DATA_MOVE Pin=U1-45
-Added Member To Class: ClassName=Clock Member=Component C27 100nF

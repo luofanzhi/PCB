@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=VIN Pin=C5-1
-Removed Pin From Net: NetName=GND Pin=C5-2
-Removed Member From Class: ClassName=LED Member=C5
-Change Component Footprint: Designator=C4 Old Footprint=CAP-10mm New Footprint=CAP 5.0*12.5*20
-Change Component Footprint: Designator=D2 Old Footprint=SMC New Footprint=SMCC
-Change Component Footprint: Designator=D4 Old Footprint=SMC New Footprint=SMCC
-Change Component Footprint: Designator=D6 Old Footprint=SMC New Footprint=SMCC

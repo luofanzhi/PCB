@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=UD+ Pin=R35-1
-Removed Pin From Net: NetName=UD+ Pin=U7-21
-Change Component Footprint: Designator=C2 Old Footprint=CAP-6.3mm New Footprint=CAP 5.0*12.5*20
-Change Component Footprint: Designator=C8 Old Footprint=CAP-6.3mm New Footprint=CAP 5.0*12.5*20
-Change Component Footprint: Designator=C28 Old Footprint=CAP-10mm New Footprint=CAP 5.0*12.5*20
-Change Component Footprint: Designator=JP1 Old Footprint=XH2.54-WI-2P New Footprint=XH2.54-LI-2P
-Added Pin To Net: NetName=USART3_RXD_PB10 Pin=R35-1
-Added Pin To Net: NetName=USART3_RXD_PB10 Pin=U7-21
-Added Net: Name=USART3_RXD_PB10
