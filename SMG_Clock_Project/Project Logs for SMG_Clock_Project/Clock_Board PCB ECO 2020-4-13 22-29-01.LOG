@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=POWER_ADC_GPIOA_1 Pin=C3-2
+Removed Pin From Net: NetName=POWER_ADC_GPIOA_1 Pin=R4-2
+Removed Pin From Net: NetName=GND Pin=R5-1
+Removed Member From Class: ClassName=Clock Member=C3
+Removed Member From Class: ClassName=Clock Member=R3
+Removed Member From Class: ClassName=Clock Member=R4
+Removed Member From Class: ClassName=Clock Member=R5
+Change Component Designator: OldDesignator=   NewDesignator=IC2

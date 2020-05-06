@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=VBAT Pin=BT1-1
+Removed Pin From Net: NetName=GGND Pin=C10-2
+Removed Pin From Net: NetName=VBAT Pin=D2-1
+Removed Pin From Net: NetName=VBAT Pin=R13-1
+Removed Pin From Net: NetName=VBAT Pin=U1-24
+Removed Pin From Net: NetName=VBAT Pin=U1-36
+Removed Pin From Net: NetName=VBAT Pin=U1-48
+Added Component: Designator=D4(SOD-323)
+Added Pin To Net: NetName=GGND Pin=C10-1
+Added Pin To Net: NetName=VBAT Pin=C10-2
+Added Pin To Net: NetName=VBAT Pin=D2-2
+Added Pin To Net: NetName=MCU_3.3V Pin=D4-1
+Added Pin To Net: NetName=VBAT Pin=D4-2
+Added Pin To Net: NetName=MCU_3.3V Pin=R13-1
+Added Pin To Net: NetName=VBAT Pin=U1-1
+Added Pin To Net: NetName=MCU_3.3V Pin=U1-24
+Added Pin To Net: NetName=MCU_3.3V Pin=U1-36
+Added Pin To Net: NetName=MCU_3.3V Pin=U1-48
+Added Pin To Net: NetName=VBAT_IN Pin=BT1-1
+Added Pin To Net: NetName=VBAT_IN Pin=D2-1
+Added Net: Name=VBAT_IN
+Added Member To Class: ClassName=Clock Member=Component D4 1N4148

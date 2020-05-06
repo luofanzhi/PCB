@@ -1,0 +1,13 @@
+Added Component: Designator=CON1(DC-005)
+Add component (AddParameter): Name = "BOM名称"; Value = "DC电源接口"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R26(0603RR)
+Added Pin To Net: NetName=VCC_5V Pin=CON1-1
+Added Pin To Net: NetName=GND Pin=CON1-2
+Added Pin To Net: NetName=GND Pin=R26-2
+Added Pin To Net: NetName=NetCON1_3 Pin=CON1-3
+Added Pin To Net: NetName=NetCON1_3 Pin=R26-1
+Added Net: Name=NetCON1_3
+Added Member To Class: ClassName=Clock Member=Component CON1 3.5*1.3
+Added Member To Class: ClassName=Clock Member=Component R26 0R

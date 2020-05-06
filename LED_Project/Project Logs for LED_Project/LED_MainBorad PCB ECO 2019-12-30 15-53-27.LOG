@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=AC_24V_N Pin=JP1-1
+Removed Pin From Net: NetName=AC_24V_L Pin=JP1-2
+Removed Pin From Net: NetName=LED_OUT Pin=JP2-1
+Removed Pin From Net: NetName=FB Pin=JP2-2
+Added Pin To Net: NetName=AC_24V_L Pin=JP1-1
+Added Pin To Net: NetName=AC_24V_N Pin=JP1-2
+Added Pin To Net: NetName=FB Pin=JP2-1
+Added Pin To Net: NetName=LED_OUT Pin=JP2-2

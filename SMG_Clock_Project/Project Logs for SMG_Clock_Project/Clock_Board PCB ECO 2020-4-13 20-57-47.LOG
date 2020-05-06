@@ -1,0 +1,153 @@
+Removed Pin From Net: NetName=POWER_+ Pin=D3-1
+Removed Pin From Net: NetName=GND Pin=E1-2
+Removed Pin From Net: NetName=POWER_+ Pin=JP2-2
+Removed Pin From Net: NetName=GND Pin=JP2-3
+Removed Pin From Net: NetName=GND Pin=U3-1
+Removed Pin From Net: NetName=VCC_5V Pin=U3-4
+Removed Member From Class: ClassName=Clock Member=D3
+Removed Member From Class: ClassName=Clock Member=E1
+Removed Member From Class: ClassName=Clock Member=JP2
+Removed Member From Class: ClassName=Clock Member=U3
+Change Component Designator: OldDesignator=震动唤醒 NewDesignator=S5
+Added Component: Designator=C?(0603CC)
+Added Component: Designator=C?(0603CC)
+Added Component: Designator=R?(0603RR)
+Added Component: Designator=R?(0603RR)
+Added Component: Designator=RP?(4x0603)
+Added Component: Designator=RP?(4x0603)
+Added Component: Designator=RP?(4x0603)
+Added Component: Designator=RP?(4x0603)
+Added Component: Designator=RP?(4x0603)
+Added Component: Designator=SMG?(SMG 0.36-4P)
+Add component (AddParameter): Name = "BOM名称"; Value = "0.36寸4位共阳"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=SMG?(SMG 0.36-4P)
+Add component (AddParameter): Name = "BOM名称"; Value = "0.36寸4位共阳"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=SMG?(SMG 0.36-4P)
+Add component (AddParameter): Name = "BOM名称"; Value = "0.36寸4位共阳"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOP16_L)
+Added Component: Designator=USB?(USB-MICRO_A)
+Add component (AddParameter): Name = "BOM名称"; Value = "微型USB母座"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_5V Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=W_COM_1 Pin=RP?-1
+Added Pin To Net: NetName=W_COM_5 Pin=RP?-1
+Added Pin To Net: NetName=W_COM_2 Pin=RP?-2
+Added Pin To Net: NetName=W_COM_6 Pin=RP?-2
+Added Pin To Net: NetName=W_COM_3 Pin=RP?-3
+Added Pin To Net: NetName=W_COM_7 Pin=RP?-3
+Added Pin To Net: NetName=W_COM_4 Pin=RP?-4
+Added Pin To Net: NetName=W_COM_8 Pin=RP?-4
+Added Pin To Net: NetName=MCU_3.3V Pin=RP?-5
+Added Pin To Net: NetName=MCU_3.3V Pin=RP?-5
+Added Pin To Net: NetName=MCU_3.3V Pin=RP?-6
+Added Pin To Net: NetName=MCU_3.3V Pin=RP?-6
+Added Pin To Net: NetName=MCU_3.3V Pin=RP?-7
+Added Pin To Net: NetName=MCU_3.3V Pin=RP?-7
+Added Pin To Net: NetName=MCU_3.3V Pin=RP?-8
+Added Pin To Net: NetName=MCU_3.3V Pin=RP?-8
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=VCC_5V Pin=U?-16
+Added Pin To Net: NetName=VCC_5V Pin=USB?-1
+Added Pin To Net: NetName=GND Pin=USB?-4
+Added Pin To Net: NetName=GND Pin=USB?-5
+Added Pin To Net: NetName=GND Pin=USB?-5
+Added Pin To Net: NetName=GND Pin=USB?-5
+Added Pin To Net: NetName=GND Pin=USB?-5
+Added Pin To Net: NetName=GND Pin=USB?-5
+Added Pin To Net: NetName=D0_A Pin=SMG?-11
+Added Pin To Net: NetName=D0_A Pin=SMG?-11
+Added Pin To Net: NetName=D0_A Pin=SMG?-11
+Added Net: Name=D0_A
+Added Pin To Net: NetName=D0_B Pin=SMG?-7
+Added Pin To Net: NetName=D0_B Pin=SMG?-7
+Added Pin To Net: NetName=D0_B Pin=SMG?-7
+Added Net: Name=D0_B
+Added Pin To Net: NetName=D0_C Pin=SMG?-4
+Added Pin To Net: NetName=D0_C Pin=SMG?-4
+Added Pin To Net: NetName=D0_C Pin=SMG?-4
+Added Net: Name=D0_C
+Added Pin To Net: NetName=D0_D Pin=SMG?-2
+Added Pin To Net: NetName=D0_D Pin=SMG?-2
+Added Pin To Net: NetName=D0_D Pin=SMG?-2
+Added Net: Name=D0_D
+Added Pin To Net: NetName=D0_E Pin=SMG?-1
+Added Pin To Net: NetName=D0_E Pin=SMG?-1
+Added Pin To Net: NetName=D0_E Pin=SMG?-1
+Added Net: Name=D0_E
+Added Pin To Net: NetName=D0_F Pin=SMG?-10
+Added Pin To Net: NetName=D0_F Pin=SMG?-10
+Added Pin To Net: NetName=D0_F Pin=SMG?-10
+Added Net: Name=D0_F
+Added Pin To Net: NetName=D0_G Pin=SMG?-5
+Added Pin To Net: NetName=D0_G Pin=SMG?-5
+Added Pin To Net: NetName=D0_G Pin=SMG?-5
+Added Net: Name=D0_G
+Added Pin To Net: NetName=D0_H Pin=SMG?-3
+Added Pin To Net: NetName=D0_H Pin=SMG?-3
+Added Pin To Net: NetName=D0_H Pin=SMG?-3
+Added Net: Name=D0_H
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=U?-4
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U?-3
+Added Net: Name=NetR?_2
+Added Pin To Net: NetName=UD+ Pin=U?-5
+Added Pin To Net: NetName=UD+ Pin=USB?-3
+Added Net: Name=UD+
+Added Pin To Net: NetName=UD- Pin=U?-6
+Added Pin To Net: NetName=UD- Pin=USB?-2
+Added Net: Name=UD-
+Added Pin To Net: NetName=USART1_RXD_PA9 Pin=R?-1
+Added Pin To Net: NetName=USART1_RXD_PA9 Pin=U1-30
+Added Net: Name=USART1_RXD_PA9
+Added Pin To Net: NetName=USART1_TXD_PA10 Pin=R?-1
+Added Pin To Net: NetName=USART1_TXD_PA10 Pin=U1-31
+Added Net: Name=USART1_TXD_PA10
+Added Pin To Net: NetName=W0_COM1 Pin=SMG?-12
+Added Net: Name=W0_COM1
+Added Pin To Net: NetName=W0_COM2 Pin=SMG?-9
+Added Net: Name=W0_COM2
+Added Pin To Net: NetName=W0_COM3 Pin=SMG?-8
+Added Net: Name=W0_COM3
+Added Pin To Net: NetName=W0_COM4 Pin=SMG?-6
+Added Net: Name=W0_COM4
+Added Pin To Net: NetName=W0_COM5 Pin=SMG?-12
+Added Net: Name=W0_COM5
+Added Pin To Net: NetName=W0_COM6 Pin=SMG?-9
+Added Net: Name=W0_COM6
+Added Pin To Net: NetName=W0_COM7 Pin=SMG?-8
+Added Net: Name=W0_COM7
+Added Pin To Net: NetName=W0_COM8 Pin=SMG?-6
+Added Net: Name=W0_COM8
+Added Pin To Net: NetName=W0_COM9 Pin=SMG?-12
+Added Net: Name=W0_COM9
+Added Pin To Net: NetName=W0_COM10 Pin=SMG?-9
+Added Net: Name=W0_COM10
+Added Pin To Net: NetName=W0_COM11 Pin=SMG?-8
+Added Net: Name=W0_COM11
+Added Pin To Net: NetName=W0_COM12 Pin=SMG?-6
+Added Net: Name=W0_COM12
+Added Member To Class: ClassName=Clock Member=Component C? 100nF
+Added Member To Class: ClassName=Clock Member=Component C? 100nF
+Added Member To Class: ClassName=Clock Member=Component R? 220
+Added Member To Class: ClassName=Clock Member=Component R? 220
+Added Member To Class: ClassName=Clock Member=Component RP? 470
+Added Member To Class: ClassName=Clock Member=Component RP? 470
+Added Member To Class: ClassName=Clock Member=Component RP? 470
+Added Member To Class: ClassName=Clock Member=Component RP? 470
+Added Member To Class: ClassName=Clock Member=Component RP? 470
+Added Member To Class: ClassName=Clock Member=Component SMG? 3641B
+Added Member To Class: ClassName=Clock Member=Component SMG? 3641B
+Added Member To Class: ClassName=Clock Member=Component SMG? 3641B
+Added Member To Class: ClassName=Clock Member=Component U? CH340C
+Added Member To Class: ClassName=Clock Member=Component USB? USB-5P

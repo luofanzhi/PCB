@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=VCC_5V Pin=C1-1
+Removed Pin From Net: NetName=VCC_5V Pin=C2-1
+Removed Pin From Net: NetName=VCC_5V Pin=IC1-16
+Removed Pin From Net: NetName=VCC_5V Pin=IC2-16
+Removed Pin From Net: NetName=VCC_5V Pin=R1-2
+Removed Pin From Net: NetName=VCC_5V Pin=R2-2
+Removed Pin From Net: NetName=MCU_3.3V Pin=R3-2
+Added Pin To Net: NetName=MCU_3.3V Pin=C1-1
+Added Pin To Net: NetName=MCU_3.3V Pin=C2-1
+Added Pin To Net: NetName=MCU_3.3V Pin=IC1-16
+Added Pin To Net: NetName=MCU_3.3V Pin=IC2-16
+Added Pin To Net: NetName=MCU_3.3V Pin=R1-2
+Added Pin To Net: NetName=MCU_3.3V Pin=R2-2
+Added Pin To Net: NetName=POWER_+ Pin=R3-2

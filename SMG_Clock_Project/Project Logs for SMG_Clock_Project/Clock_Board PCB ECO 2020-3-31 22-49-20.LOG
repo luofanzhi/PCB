@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=KEY_UP_GPIOB_5 Pin=U1-41
+Removed Pin From Net: NetName=KEY_DOWN_GPIOB_6 Pin=U1-42
+Removed Pin From Net: NetName=KEY_MODE_GPIOB_7 Pin=U1-43
+Added Pin To Net: NetName=KEY_MODE_GPIOB_7 Pin=U1-15
+Added Pin To Net: NetName=KEY_DOWN_GPIOB_6 Pin=U1-16
+Added Pin To Net: NetName=KEY_UP_GPIOB_5 Pin=U1-17
+Change Net Name : Old Net Name=KEY_DOWN_GPIOB_6 New Net Name=KEY_DOWN_GPIOA_6
+Change Net Name : Old Net Name=KEY_MODE_GPIOB_7 New Net Name=KEY_MODE_GPIOA_5
+Change Net Name : Old Net Name=KEY_UP_GPIOB_5 New Net Name=KEY_UP_GPIOA_7
+Added Pin To Net: NetName=BEEP_GPIOA_4 Pin=R7-1
+Added Pin To Net: NetName=BEEP_GPIOA_4 Pin=U1-14
+Added Net: Name=BEEP_GPIOA_4

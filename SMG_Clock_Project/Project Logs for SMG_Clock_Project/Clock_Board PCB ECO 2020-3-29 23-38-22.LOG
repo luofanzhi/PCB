@@ -1,0 +1,4 @@
+Added Component: Designator=BT1(VBAT)
+Added Pin To Net: NetName=NetBT1_1 Pin=BT1-1
+Added Pin To Net: NetName=GGND Pin=BT1-2
+Added Member To Class: ClassName=Clock Member=Component BT1 BATTERY

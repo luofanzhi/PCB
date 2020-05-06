@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=E1 Old Footprint=CAP 1.5*4*8 - GD New Footprint=CAP 2.5*6.3*11.2 - GD
+Added Component: Designator=C22(0603CC)
+Added Component: Designator=R17(0603RR)
+Added Component: Designator=S5(CAP 2.5*5*11-H)
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=MCU_3.3V Pin=R17-2
+Added Pin To Net: NetName=GND Pin=S5-2
+Added Pin To Net: NetName=WAKE_UP_GPIOA_0 Pin=C22-1
+Added Pin To Net: NetName=WAKE_UP_GPIOA_0 Pin=R17-1
+Added Pin To Net: NetName=WAKE_UP_GPIOA_0 Pin=S5-1
+Added Pin To Net: NetName=WAKE_UP_GPIOA_0 Pin=U1-10
+Added Net: Name=WAKE_UP_GPIOA_0
+Added Member To Class: ClassName=Clock Member=Component C22 100nF
+Added Member To Class: ClassName=Clock Member=Component R17 10K
+Added Member To Class: ClassName=Clock Member=Component S5 µ¥µ¶¿ª¹Ø

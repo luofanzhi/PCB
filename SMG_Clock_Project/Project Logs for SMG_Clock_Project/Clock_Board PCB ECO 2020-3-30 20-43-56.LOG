@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=WEI_DATA_MOVE Pin=U1-21
+Removed Pin From Net: NetName=DUAN_DATA_IN Pin=U1-22
+Removed Pin From Net: NetName=DUAN_DATA_OUT Pin=U1-25
+Removed Pin From Net: NetName=DUAN_DATA_MOVE Pin=U1-26
+Removed Pin From Net: NetName=WEI_DATA_IN Pin=U1-45
+Removed Pin From Net: NetName=WEI_DATA_OUT Pin=U1-46
+Change Component Footprint: Designator=S1 Old Footprint=TSW SMD-6*6*6 New Footprint=TSW DIP-6*6*6_V
+Change Component Footprint: Designator=S2 Old Footprint=TSW SMD-6*6*6 New Footprint=TSW DIP-6*6*6_V
+Added Component: Designator=C21(0603CC)
+Added Component: Designator=R16(0603RR)
+Added Component: Designator=S4(TSW DIP-6*6*6_V)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=MCU_3.3V Pin=R16-2
+Added Pin To Net: NetName=GND Pin=S4-2
+Added Pin To Net: NetName=WEI_DATA_OUT Pin=U1-21
+Added Pin To Net: NetName=WEI_DATA_MOVE Pin=U1-22
+Added Pin To Net: NetName=DUAN_DATA_IN Pin=U1-25
+Added Pin To Net: NetName=DUAN_DATA_OUT Pin=U1-26
+Added Pin To Net: NetName=DUAN_DATA_MOVE Pin=U1-27
+Added Pin To Net: NetName=WEI_DATA_IN Pin=U1-46
+Change Net Name : Old Net Name=KEY_C_GPIOB_5 New Net Name=KEY_UP_GPIOB_5
+Change Net Name : Old Net Name=KEY_S_GPIOB_6 New Net Name=KEY_DOWN_GPIOB_6
+Added Pin To Net: NetName=BEEP_GPIOB_8 Pin=R7-1
+Added Pin To Net: NetName=BEEP_GPIOB_8 Pin=U1-45
+Added Net: Name=BEEP_GPIOB_8
+Added Pin To Net: NetName=KEY_MODE_GPIOB_7 Pin=C21-1
+Added Pin To Net: NetName=KEY_MODE_GPIOB_7 Pin=R16-1
+Added Pin To Net: NetName=KEY_MODE_GPIOB_7 Pin=S4-1
+Added Pin To Net: NetName=KEY_MODE_GPIOB_7 Pin=U1-43
+Added Net: Name=KEY_MODE_GPIOB_7
+Added Member To Class: ClassName=Clock Member=Component C21 100nF
+Added Member To Class: ClassName=Clock Member=Component R16 10K
+Added Member To Class: ClassName=Clock Member=Component S4 SW-PB

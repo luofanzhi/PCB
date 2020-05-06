@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : D:\AD工作区\像素时钟\SMG_Clock_Project\Clock_Board.PcbDoc
+Date         : 2020/4/1
+Time         : 15:29:59
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 5815.591milsx2012.795mils
+    Components on board, 63
+count : 2
